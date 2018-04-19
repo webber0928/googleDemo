@@ -1,6 +1,5 @@
-logs
-*.log
-npm-debug.log*
-node_modules
-.npm
+/dist
+/logs
+/npm-debug.log
+/node_modules
 .DS_Store
